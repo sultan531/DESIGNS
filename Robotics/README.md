@@ -8,4 +8,4 @@ This folder contains my industrial robotics projects, including designs for fact
 - Notes and documentation explaining design decisions.
 
 ## 🎯 Goal
-To showcase my skills in robotic system design, 3D modeling, and industrial automation applications.
+To showcase my skills in robotic system design, 3D modeling, and industrial automation applications. 
